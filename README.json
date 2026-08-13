@@ -1,0 +1,182 @@
+{
+  "items": [
+    {
+      "description": "If you have any suggestions or find our work helpful, feel free to contact us\nHomepage: Zhen Xing\nEmail: zhenxingfd@gmail.com\nIf you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.",
+      "items": [],
+      "title": "Contact"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-source Toolboxes and Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Caption-level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Category-level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metric and BenchMark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text-to-Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training-based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training-free"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Generation with other conditions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pose-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Motion-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sound-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Brain-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Depth-guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multi-modal guided Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unconditional Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "U-Net based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Transformer based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Completion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Enhancement and Restoration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Prediction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "General Editing Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training-free Editing Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "One-shot Editing Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Instruct-guided Video Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Motion-guided Video Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sound-guided Video Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multi-modal Control Editing Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Domain-specific Editing Model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-diffusion Editing model"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Understanding"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:01.044Z",
+    "original_repository": "ChenHsing/Awesome-Video-Diffusion-Models",
+    "original_repository_sha": "eb7a23e02490c443bc69d547bf62ce9cce849c9e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Video-Diffusion-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome A Survey on Video Diffusion Models with stars"
+  }
+}
