@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:26:04Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2077
+            "stars": 2080
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-04T11:19:04Z",
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 12980
+            "stars": 12981
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-08T12:48:46Z",
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12161
+            "stars": 12165
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-08T12:48:46Z",
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12161
+            "stars": 12165
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-09T01:52:40Z",
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29315
+            "stars": 29316
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-09T01:52:40Z",
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29315
+            "stars": 29316
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-12-16T08:36:18Z",
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27272
+            "stars": 27271
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-25T14:21:39Z",
             "owner": "modelscope",
             "repo": "modelscope",
-            "stars": 9111
+            "stars": 9112
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-07-31T01:14:15Z",
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12227
+            "stars": 12228
           }
         },
         {
@@ -451,7 +451,7 @@
                     "last_commit": "2026-08-24T07:26:04Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "Helios",
-                    "stars": 2077
+                    "stars": 2080
                   }
                 },
                 {
@@ -496,7 +496,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12980
+                    "stars": 12981
                   }
                 },
                 {
@@ -616,7 +616,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27272
+                    "stars": 27271
                   }
                 },
                 {
@@ -811,7 +811,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12227
+                    "stars": 12228
                   }
                 },
                 {
@@ -841,7 +841,7 @@
                     "last_commit": "2026-08-25T14:21:39Z",
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9111
+                    "stars": 9112
                   }
                 },
                 {
@@ -871,7 +871,7 @@
                     "last_commit": "2026-08-25T14:21:39Z",
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9111
+                    "stars": 9112
                   }
                 },
                 {
@@ -901,7 +901,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12980
+                    "stars": 12981
                   }
                 }
               ],
@@ -1192,7 +1192,7 @@
                     "last_commit": "2025-11-18T06:29:12Z",
                     "owner": "Tencent",
                     "repo": "MimicMotion",
-                    "stars": 2647
+                    "stars": 2648
                   }
                 },
                 {
@@ -1237,7 +1237,7 @@
                     "last_commit": "2025-09-20T13:56:23Z",
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14791
+                    "stars": 14790
                   }
                 },
                 {
@@ -1944,7 +1944,7 @@
                     "last_commit": "2024-09-27T10:50:59Z",
                     "owner": "sczhou",
                     "repo": "Upscale-A-Video",
-                    "stars": 1470
+                    "stars": 1471
                   }
                 },
                 {
@@ -2906,7 +2906,7 @@
                     "last_commit": "2026-03-03T21:51:22Z",
                     "owner": "facebookresearch",
                     "repo": "co-tracker",
-                    "stars": 5079
+                    "stars": 5080
                   }
                 },
                 {
@@ -3014,7 +3014,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:36.386Z",
+    "last_updated": "2026-08-27T22:25:56.864Z",
     "original_repository_info": {
       "archived": false,
       "id": 673277480,
