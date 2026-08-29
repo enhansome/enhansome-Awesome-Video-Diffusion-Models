@@ -61,7 +61,7 @@
             "open_issues": 117,
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 12982,
+            "stars": 12984,
             "topics": [
               "cogvideox",
               "image-to-video",
@@ -89,7 +89,7 @@
             "open_issues": 267,
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12184,
+            "stars": 12198,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -110,7 +110,7 @@
             "open_issues": 267,
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12184,
+            "stars": 12198,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -131,7 +131,7 @@
             "open_issues": 13,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29319,
+            "stars": 29321,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -152,7 +152,7 @@
             "open_issues": 13,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29319,
+            "stars": 29321,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -173,7 +173,7 @@
             "open_issues": 339,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27273,
+            "stars": 27272,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -194,7 +194,7 @@
             "open_issues": 15,
             "owner": "modelscope",
             "repo": "modelscope",
-            "stars": 9116,
+            "stars": 9117,
             "topics": [
               "cv",
               "deep-learning",
@@ -883,7 +883,7 @@
                     "open_issues": 117,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12982,
+                    "stars": 12984,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -1080,7 +1080,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27273,
+                    "stars": 27272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -1434,7 +1434,7 @@
                     "open_issues": 15,
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9116,
+                    "stars": 9117,
                     "topics": [
                       "cv",
                       "deep-learning",
@@ -1506,7 +1506,7 @@
                     "open_issues": 15,
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9116,
+                    "stars": 9117,
                     "topics": [
                       "cv",
                       "deep-learning",
@@ -1557,7 +1557,7 @@
                     "open_issues": 117,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12982,
+                    "stars": 12984,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -2096,7 +2096,7 @@
                     "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14788,
+                    "stars": 14789,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -4774,7 +4774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:53.821Z",
+    "last_updated": "2026-08-29T16:47:53.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "[CSUR] A Survey on Video Diffusion Models",
