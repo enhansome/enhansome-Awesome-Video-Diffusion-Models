@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:26:04Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2124,
+            "stars": 2128,
             "topics": [
               "acceleration",
               "diffusion",
@@ -89,7 +89,7 @@
             "open_issues": 267,
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12204,
+            "stars": 12203,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -110,7 +110,7 @@
             "open_issues": 267,
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12204,
+            "stars": 12203,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -128,10 +128,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-09T01:52:40Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29330,
+            "stars": 29336,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -149,10 +149,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-09T01:52:40Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29330,
+            "stars": 29336,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -190,11 +190,11 @@
             "id": 517552648,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T07:42:07Z",
+            "last_commit": "2026-09-01T08:05:48Z",
             "open_issues": 16,
             "owner": "modelscope",
             "repo": "modelscope",
-            "stars": 9121,
+            "stars": 9120,
             "topics": [
               "cv",
               "deep-learning",
@@ -276,7 +276,7 @@
             "open_issues": 319,
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12232,
+            "stars": 12231,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -426,7 +426,7 @@
                     "open_issues": 36,
                     "owner": "PKU-YuanGroup",
                     "repo": "ConsisID",
-                    "stars": 854,
+                    "stars": 855,
                     "topics": [
                       "diffusion",
                       "diffusion-models",
@@ -700,7 +700,7 @@
                     "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1753,
+                    "stars": 1755,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -730,7 +730,7 @@
                     "open_issues": 6,
                     "owner": "TIGER-AI-Lab",
                     "repo": "VideoScore2",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "llm",
                       "videos",
@@ -755,7 +755,7 @@
                     "open_issues": 5,
                     "owner": "evalcrafter",
                     "repo": "EvalCrafter",
-                    "stars": 196,
+                    "stars": 195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -787,10 +787,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-24T07:26:04Z",
-                    "open_issues": 42,
+                    "open_issues": 41,
                     "owner": "PKU-YuanGroup",
                     "repo": "Helios",
-                    "stars": 2124,
+                    "stars": 2128,
                     "topics": [
                       "acceleration",
                       "diffusion",
@@ -832,7 +832,7 @@
                     "open_issues": 36,
                     "owner": "PKU-YuanGroup",
                     "repo": "ConsisID",
-                    "stars": 854,
+                    "stars": 855,
                     "topics": [
                       "diffusion",
                       "diffusion-models",
@@ -1392,7 +1392,7 @@
                     "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12232,
+                    "stars": 12231,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -1430,11 +1430,11 @@
                     "id": 517552648,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T07:42:07Z",
+                    "last_commit": "2026-09-01T08:05:48Z",
                     "open_issues": 16,
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9121,
+                    "stars": 9120,
                     "topics": [
                       "cv",
                       "deep-learning",
@@ -1502,11 +1502,11 @@
                     "id": 517552648,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T07:42:07Z",
+                    "last_commit": "2026-09-01T08:05:48Z",
                     "open_issues": 16,
                     "owner": "modelscope",
                     "repo": "modelscope",
-                    "stars": 9121,
+                    "stars": 9120,
                     "topics": [
                       "cv",
                       "deep-learning",
@@ -2026,7 +2026,7 @@
                     "open_issues": 93,
                     "owner": "Tencent",
                     "repo": "MimicMotion",
-                    "stars": 2651,
+                    "stars": 2652,
                     "topics": [
                       "diffusion-models",
                       "video-generation"
@@ -2050,7 +2050,7 @@
                     "open_issues": 49,
                     "owner": "fudan-generative-vision",
                     "repo": "champ",
-                    "stars": 4261,
+                    "stars": 4262,
                     "topics": [
                       "human-animation",
                       "image-animatioln",
@@ -2320,7 +2320,7 @@
                     "open_issues": 49,
                     "owner": "fudan-generative-vision",
                     "repo": "champ",
-                    "stars": 4261,
+                    "stars": 4262,
                     "topics": [
                       "human-animation",
                       "image-animatioln",
@@ -2459,7 +2459,7 @@
                     "open_issues": 36,
                     "owner": "PKU-YuanGroup",
                     "repo": "ConsisID",
-                    "stars": 854,
+                    "stars": 855,
                     "topics": [
                       "diffusion",
                       "diffusion-models",
@@ -4604,7 +4604,7 @@
                     "open_issues": 102,
                     "owner": "facebookresearch",
                     "repo": "co-tracker",
-                    "stars": 5081,
+                    "stars": 5080,
                     "topics": [
                       "optical-flow",
                       "point-tracking",
@@ -4774,7 +4774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:09:38.734Z",
+    "last_updated": "2026-09-01T16:45:45.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "[CSUR] A Survey on Video Diffusion Models",
