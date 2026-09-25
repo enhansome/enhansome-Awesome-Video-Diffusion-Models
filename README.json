@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2159,
+            "stars": 2162,
             "topics": [
               "acceleration",
               "diffusion",
@@ -61,7 +61,7 @@
             "open_issues": 118,
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 13039,
+            "stars": 13041,
             "topics": [
               "cogvideox",
               "image-to-video",
@@ -131,7 +131,7 @@
             "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29834,
+            "stars": 29837,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -152,7 +152,7 @@
             "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29834,
+            "stars": 29837,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -276,7 +276,7 @@
             "open_issues": 318,
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12249,
+            "stars": 12251,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -533,7 +533,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -700,7 +700,7 @@
                     "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1794,
+                    "stars": 1795,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -790,7 +790,7 @@
                     "open_issues": 43,
                     "owner": "PKU-YuanGroup",
                     "repo": "Helios",
-                    "stars": 2159,
+                    "stars": 2162,
                     "topics": [
                       "acceleration",
                       "diffusion",
@@ -883,7 +883,7 @@
                     "open_issues": 118,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13039,
+                    "stars": 13041,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -1392,7 +1392,7 @@
                     "open_issues": 318,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12249,
+                    "stars": 12251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -1464,7 +1464,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2394,
+                    "stars": 2395,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -1557,7 +1557,7 @@
                     "open_issues": 118,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13039,
+                    "stars": 13041,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -1671,7 +1671,7 @@
                     "open_issues": 4,
                     "owner": "hohonu-vicml",
                     "repo": "TrailBlazer",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": [
                       "boundingbox",
                       "controlability",
@@ -1845,7 +1845,7 @@
                     "open_issues": 2,
                     "owner": "SooLab",
                     "repo": "Free-Bloom",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": [
                       "free-bloom",
                       "stable-diffusion",
@@ -2008,7 +2008,7 @@
                     "open_issues": 13,
                     "owner": "Francis-Rings",
                     "repo": "StableAnimator",
-                    "stars": 1432,
+                    "stars": 1433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -2108,7 +2108,7 @@
                     "open_issues": 109,
                     "owner": "magic-research",
                     "repo": "magic-animate",
-                    "stars": 10898,
+                    "stars": 10896,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -2129,7 +2129,7 @@
                     "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14781,
+                    "stars": 14780,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -4828,7 +4828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:21:04.249Z",
+    "last_updated": "2026-09-25T17:20:08.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "[CSUR] A Survey on Video Diffusion Models",
