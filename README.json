@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2184,
+            "stars": 2185,
             "topics": [
               "acceleration",
               "diffusion",
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 13055,
+            "stars": 13056,
             "topics": [
               "cogvideox",
               "image-to-video",
@@ -173,7 +173,7 @@
             "open_issues": 339,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27300,
+            "stars": 27301,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -276,7 +276,7 @@
             "open_issues": 318,
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12262,
+            "stars": 12263,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:49.395Z"
@@ -533,7 +533,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -790,7 +790,7 @@
                     "open_issues": 43,
                     "owner": "PKU-YuanGroup",
                     "repo": "Helios",
-                    "stars": 2184,
+                    "stars": 2185,
                     "topics": [
                       "acceleration",
                       "diffusion",
@@ -883,7 +883,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13055,
+                    "stars": 13056,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -1080,7 +1080,7 @@
                     "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27300,
+                    "stars": 27301,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -1392,7 +1392,7 @@
                     "open_issues": 318,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12262,
+                    "stars": 12263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -1464,7 +1464,7 @@
                     "open_issues": 147,
                     "owner": "OpenGVLab",
                     "repo": "InternVideo",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": [
                       "action-recognition",
                       "benchmark",
@@ -1557,7 +1557,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13055,
+                    "stars": 13056,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -1603,7 +1603,9 @@
                       "test-time-search",
                       "training-free",
                       "video-diffusion",
+                      "video-gen",
                       "video-generation",
+                      "video-generator",
                       "wan"
                     ]
                   },
@@ -2059,7 +2061,7 @@
                     "open_issues": 93,
                     "owner": "Tencent",
                     "repo": "MimicMotion",
-                    "stars": 2673,
+                    "stars": 2672,
                     "topics": [
                       "diffusion-models",
                       "video-generation"
@@ -2083,7 +2085,7 @@
                     "open_issues": 49,
                     "owner": "fudan-generative-vision",
                     "repo": "champ",
-                    "stars": 4264,
+                    "stars": 4265,
                     "topics": [
                       "human-animation",
                       "image-animatioln",
@@ -2129,7 +2131,7 @@
                     "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14780,
+                    "stars": 14779,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -2353,7 +2355,7 @@
                     "open_issues": 49,
                     "owner": "fudan-generative-vision",
                     "repo": "champ",
-                    "stars": 4264,
+                    "stars": 4265,
                     "topics": [
                       "human-animation",
                       "image-animatioln",
@@ -2464,7 +2466,7 @@
                     "open_issues": 257,
                     "owner": "HumanAIGC",
                     "repo": "EMO",
-                    "stars": 7585,
+                    "stars": 7584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:49.395Z"
@@ -4658,7 +4660,7 @@
                     "open_issues": 102,
                     "owner": "facebookresearch",
                     "repo": "co-tracker",
-                    "stars": 5136,
+                    "stars": 5137,
                     "topics": [
                       "optical-flow",
                       "point-tracking",
@@ -4710,7 +4712,7 @@
                     "open_issues": 2,
                     "owner": "jpthu17",
                     "repo": "DiffusionRet",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": [
                       "cross-modal-retrieval",
                       "diffusion-models",
@@ -4828,7 +4830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:31:35.266Z",
+    "last_updated": "2026-10-04T16:54:13.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "[CSUR] A Survey on Video Diffusion Models",
